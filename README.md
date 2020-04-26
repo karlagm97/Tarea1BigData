@@ -22,4 +22,7 @@ La comercializacion de licores y bebestibles ha crecido más de un 70% en los ú
 [La barra](https://www.labarra.cl/portada) : comercializa los productos de CCU, por lo que tiene una amplia variedad de productos especializada en la venta online
 
 
-##Problemática
+## Problemática
+
+Las páginas web escogidas fueron seleccionadas con el fin de conocer las distribuidoras nacional más participativas de licores en Chile, con el fin de poder contestar la problemática planteada por el grupo que es la de comparar los distintos precios de licores ofrecidos en el mercado y cuál es el licor más preferido por precio y calidad por los demandantes nacionales.La extracción de estos datos nos darán la capacidad de poder predecir cuál será la demanda de los licores más preferidos por precio y calidad en el mercado nacional, para luego poder seleccionar cuales son las variedades de licores más consumidos por los clientes de estas distribuidoras.
+
